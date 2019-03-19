@@ -1,0 +1,6 @@
+# Temp files
+*~
+*.swp
+
+# Zips that were submitted
+*.zip
