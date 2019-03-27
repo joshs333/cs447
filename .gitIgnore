@@ -3,7 +3,7 @@
 *.swp
 
 # Metadata files
-~.DS_Store
+*.DS_Store
 
 # Zips that were submitted
 *.zip
